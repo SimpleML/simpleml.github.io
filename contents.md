@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contents
-title-custom: "Table of contents"
+title-custom: "Table of Contents"
 permalink: /contents/
 tags: contents
 ---

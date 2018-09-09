@@ -8,6 +8,7 @@ baseurl:     ""
 url:         "http://simpleml.org"
 date_format: "%b %-d, %Y"
 header_pages:
+ - get_started.md
  - contents.md
  - about.md
 

@@ -12,7 +12,7 @@ Feel free to send me an email at **sumit743@gmail.com** if you would like to tal
 
 > "Machine Learning algorithms are simple, beautiful, and a work of art -- they should be presented like one."
 
-SimpleML.org is an effort to provide exceptionally easy-to-understand articles on machine learning algorithms. The internet is filled with tutorials, slides, blogs, and videos on machine learning algorithms, but I always find at least one of the following missing: clarity, structure, examples, completeness, and visualizations. SimpleML.org tries to fix that.
+SimpleML.org is an effort to make machine learning algorithms exceptionally easy to understand. The internet is filled with tutorials, slides, blogs, and videos on machine learning algorithms, but I always find at least one of the following missing: clarity, structure, examples, completeness, and visualizations. SimpleML.org tries to fix that.
 
 I don't remember when exactly I got the idea of starting SimpleML.org, but it was sometime in 2015-2016.
 

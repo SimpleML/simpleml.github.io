@@ -29,4 +29,11 @@ mesh (tx, ty, tz);
 surf (tx, ty, tz, 'edgecolor', 'none');
 {% endhighlight %}
 
-I am looking for a better logo, please contact me if you can design one. The logo should incorporate the *"machine learning"* theme. It also should incorporate that all articles on SimpleML.org are highly technical yet extremely simple to understand. I am not looking for a [robot logo](https://www.google.com/search?q=machine+learning+images) or a human brain with wires and gears.
+### Contribute
+All contributions are welcome. Please contact me if you would like to contribute. 
+
+* **Web Development**: Improve SimpleML.org website by using HTML, CSS, JavaScript and other modern web technologies.
+* **Design**: Overall design and user-friendliness of the website.
+* **SEO**: Improve SEO of the website.
+* **Translation**: Translate articles into other natural languages.
+* **Logo**: Design a better logo.

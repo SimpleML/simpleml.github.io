@@ -26,3 +26,17 @@ sup {
 .katex {
     font-size: $katex-font-size;
 }
+
+/*
+// Uncomment this to get Georgia with normal numbers
+// Source: https://codepen.io/cben/pen/BoZBga 
+@font-face {
+  font-family: "lining-numerals";
+  src: local("Palatino"), local("Palatino Linotype"), local("URW Palladio L");
+  unicode-range: U+0030-0039;
+}
+
+.lining {
+  font-family: "lining-numerals", "Georgia", "Bitstream Charter", "David", "David CLM", "Times New Roman", "Times", serif;
+}
+*/

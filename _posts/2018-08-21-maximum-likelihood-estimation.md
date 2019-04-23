@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      Maximum Likelihood & Maximum a Posteriori Estimation
+title:      Maximum Likelihood Estimation
 date:       2018-08-21
-permalink: /maximum-likelihood-a-posteriori-estimation/
-summary:    Estimate a statistical model's parameter using Maximum Likelihood and a Posteriori Estimation.
+permalink: /maximum-likelihood-estimation/
+summary:    Estimate a statistical model's parameter using Maximum Likelihood Estimation.
 categories: machine-learning
 ---
